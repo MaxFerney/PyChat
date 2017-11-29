@@ -1,0 +1,17 @@
+Welcome to the Computer Science chat
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Science
+Max: hi
+Max: hi
+Max: hi again
+Max: it is so quiet here
+Max: bye
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Science
+Max: it is quiet here
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Science
+Max: hello
+SYSTEM	USER: [max] HAS JOINED CHAT: Computer Science
+SYSTEM	USER: [max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Science
+SYSTEM	USER: [Max] HAS LEFT THE CHAT

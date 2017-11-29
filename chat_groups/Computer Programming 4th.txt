@@ -1,0 +1,10 @@
+Welcome to the Computer Programming 4th chat
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Programming 4th
+Max: anyone here?
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Programming 4th
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Programming 4th
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: Computer Programming 4th
+SYSTEM	USER: [Max] HAS LEFT THE CHAT

@@ -1,0 +1,2 @@
+SYSTEM	USER: [max] HAS JOINED THE CHAT
+max: hello world

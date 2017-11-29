@@ -1,0 +1,187 @@
+Starting text...
+Created by: Max Ferney
+
+it is a VERY early vesion, but is a chat.
+
+it does not auto update(just press enter) and you have
+to find the pychat window
+
+TEXT STARTS HERE...
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: I welcome you all to the chat
+SYSTEM	USER: [works] HAS JOINED THE CHAT
+works: works
+SYSTEM	USER: [works] HAS LEFT THE CHAT
+SYSTEM	USER: [hey] HAS JOINED THE CHAT
+SYSTEM	USER: [Nathan] HAS JOINED THE CHAT
+Nathan: Halo
+hey: hey
+hey: What game did you have in mind?
+SYSTEM	USER: [hey] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: We did it, but better now
+Nathan: YAS
+Nathan: tis wonderful
+SYSTEM	USER: [interstellarHyperbole] HAS JOINED THE CHAT
+Max: Finally
+Nathan: now we can discretely messages
+Max: do you like it?
+interstellarHyperbole: lol
+Max: no
+Max: I have to delete that message
+Nathan: i dont understand the joke
+Nathan: explain
+SYSTEM	USER: [interstellarHyperbole] HAS JOINED THE CHAT
+Max: Dont do that
+Nathan: explain the chat
+Nathan: the joke
+Nathan: that isnt a joke
+Nathan: i dont understand
+Nathan: PLE#ASE
+Nathan: SOMEONE
+interstellarHyperbole: who's up for cyber
+Nathan: akfl;jkf;jdao[a[htuhtf
+interstellarHyperbole: disco
+Nathan: jfa;osjj[f
+interstellarHyperbole: :P
+Nathan: qerotic
+Nathan: disco
+interstellarHyperbole: we need text colors
+Nathan: heat
+Max: You got any ideas
+Nathan: i have one
+Max: k
+Nathan: i meant a one
+Max: what is it
+Max: um...
+Max: still here
+SYSTEM	USER: [interstellarHyperbole] HAS LEFT THE CHAT
+SYSTEM	USER: [Nathan] HAS LEFT THE CHAT
+SYSTEM	USER: [Nathan] HAS JOINED THE CHAT
+Nathan: hello
+Max: I need a quick little chatting game
+Max: Give me some ideas
+Max: please
+Max: ..
+SYSTEM	USER: [Nathan] HAS LEFT THE CHAT
+Max: Its so lonely...
+Max: Lets get everyone in the chat
+Max: ...
+Max: Shutup
+Max: here
+SYSTEM	USER: [Marshall] HAS JOINED THE CHAT
+Marshall: Hey
+SYSTEM	USER: [Nathan] HAS JOINED THE CHAT
+SYSTEM	USER: [Nathan] HAS LEFT THE CHAT
+SYSTEM	USER: [Nathan] HAS JOINED THE CHAT
+Nathan: hello
+Max: hey
+Nathan: we need game ideas
+Nathan: for fun
+Max: you have to update it yourself
+Nathan: and the wub dub club
+SYSTEM	USER: [Cody] HAS JOINED THE CHAT
+Max: hey cody
+Cody: Hey bebe
+like my program
+Cody: This is cool
+Cody: This is cool
+Max: so...
+Max: thanks
+Cody: Hows life?
+Marshall: What's the point of flappy hunt
+Max: Flappy hunt is like the parachute game
+Cody: To hunt flappys of course
+Marshall: It's cool how you can swap weapons
+Max: kill flappies
+Marshall: Do the projectiles delete off screen?
+Max: oh, you mean lasers
+Marshall: Yeah
+Max: cooper made flappy hunt
+Cody: Leaving
+Cody: Leaving
+Max: last year, someone modified it.
+SYSTEM	USER: [Cody] HAS LEFT THE CHAT
+Max: and... I added a sniper
+Max: but I still saved it
+Marshall: Cool. Wait do you have this class on your schedule or do you stay after for a reason?
+Max: because I do not have a 4th period
+Nathan: im trying to add the firework to the pygame
+Nathan: the flappy hunt*
+Max: try not to make really long messages
+Nathan: but so far, no luck
+Nathan: remember, this is a chat group
+Nathan: not poetry club
+Max: yay, chat
+Marshall: I wish quake IRC would work on school computers.
+Max: Remember, this is still an early version
+Max: so I have been planning a few simple games
+Max: I dont know why
+Max: It was screwed up a bit
+Max: the score for the sniper
+Nathan: im working on tron collisions\\
+Nathan: not working very well
+Max: Who is still here?
+Max: Hello, if anyone is still here...
+SYSTEM	USER: [Nathan] HAS LEFT THE CHAT
+Max: What do you guys think about a...
+Max: Python Against Humanity
+Max: where it is cards against humanity
+Max: but python
+Max: PYTHON AGAINST HUMANITY
+SYSTEM	USER: [Nathan] HAS JOINED THE CHAT
+Max: I have a number between 1 and 10
+Max: take a guess
+Max: ...
+Nathan: 5
+Max: no
+Nathan: higher or lower?
+Max: highter
+Nathan: 7
+Max: yes
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Marshall] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: Hello
+Max: anyone here?
+Max: Why is the chat group dead???
+Max: *cries*
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Nathan] HAS JOINED THE CHAT
+Nathan: hi ethan
+SYSTEM	USER: [Nathan] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: Hey
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: hi
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: hi
+Max: this is not working too well
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: back again
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: hey
+Max: its not working
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED THE CHAT
+Max: hey
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
+SYSTEM	USER: [max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [max] HAS LEFT THE CHAT
+SYSTEM	USER: [Max] HAS JOINED CHAT: gui_test_chat_backup
+SYSTEM	USER: [Max] HAS LEFT THE CHAT
